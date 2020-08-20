@@ -14,13 +14,7 @@ Contents:
 
    readme
    contributor/index
+   openshift_sdn/index
    cno/index
    configuration/index
    user/index
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
